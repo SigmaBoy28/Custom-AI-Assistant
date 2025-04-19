@@ -23,8 +23,6 @@ url = {
     "youtube" : "https://www.youtube.com/",
     "discord" : "https://discord.com/channels/@me",
     "chatgpt" : "https://chatgpt.com/",
-    "spotify" : "https://open.spotify.com/?flow_ctx=677341a0-2d0e-4d33-98d8-d5a3f059459d%3A1740164697",
-    "video editor" : "https://www.kapwing.com/folder/67cc197053b2a8a51cb73dec",
     "google" : "https://www.google.com"
 }
 
